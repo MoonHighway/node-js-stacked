@@ -12,7 +12,6 @@ Topics
 * Backbone Models
 * Backbone Collections
 * Backbone views
-* Socket IO
 
 ### Backbone Overview
 
