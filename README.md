@@ -5,17 +5,11 @@ ILT is primarily a hands on course where the students and instructor will build 
 
 Topics
 ------
-* Generate Express
-* Express Views
-* Express Routing
-* Backbone Routes
-* Backbone Models
-* Backbone Collections
-* Backbone views
-
-### Backbone Overview
-
-* [Backbone Events (3-5)](http://jsbin.com/kexix/3/edit?js,output)
-* [App Routing (5,8)](http://jsbin.com/olonan/5/edit?js)
-* [Views](http://jsbin.com/baleci/1/edit?js,output)
-* [View|Model](http://jsbin.com/pimaz/1/edit?js,output)
+* Testing with Mocha
+* Advanced Testing with Mocks
+* Debugging
+* Express Generator
+* Handlebars Views
+* Express Routes
+* Express Middleware
+* Testing HTTP Endpoints
